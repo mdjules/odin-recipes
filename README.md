@@ -1,0 +1,1 @@
+This project is part of The Odin Project's Recipe project. It will utilize the skills I have learned so far in HTML.
