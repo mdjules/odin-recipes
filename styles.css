@@ -3,10 +3,12 @@ h2,
 h3 {
     text-align: center;
     text-decoration: underline;
+    font-family: 'Arial', sans-serif;
 }
 
 .recipe-list {
     background-color: yellow;
+    font-family: 'Arial', sans-serif;
 }
 
 body {
@@ -14,9 +16,11 @@ body {
 }
 
 ul,
-ol {
+ol,
+p {
     text-align: center;
     list-style-position: inside;
+    font-family: 'Arial', sans-serif;
 }
 
 img {
