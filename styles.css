@@ -7,8 +7,12 @@ h3 {
 }
 
 .recipe-list {
-    background-color: yellow;
+    background-color: rgb(255, 0, 0);
     font-family: 'Arial', sans-serif;
+    padding: 10px;
+    margin: auto;
+    width: 90%;
+    
 }
 
 body {
@@ -29,4 +33,13 @@ img {
     display: block;
     height: 400px;
     width: auto;
+}
+
+.recipe-list li {
+    padding: 150px;
+    display: inline;
+}
+
+.homepage-images {
+    display: flex;
 }
